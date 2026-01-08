@@ -1,103 +1,63 @@
 # ☕ Core Java Notes
 
-Welcome to **Core Java Notes Repository** 📘  
-This repository contains **topic-wise Core Java concepts**, examples, and programs arranged in a **clear folder structure**.
-
-Each chapter is stored in a **separate folder**, and inside each chapter you will find **sub-folders** for notes, programs, and practice questions.
-
 ---
 
-## 📂 Folder Structure Overview
+## 📘 Index (Chapter Wise)
 
-Click on any chapter name below to open that folder 👇
-
----
-
-##  Core Java Chapters
-
-### 1️ Java Variables
+### 📕 Chapter 1: Java Variables  
 📁 [1_VARIABLE](./1_VARIABLE)
 
-> Covers:
-- Variables
-- Data Types
-- Type Casting
-- Scope of Variables
+- 🔹 [Output in Java](./1_VARIABLE/1_OUTPUT)
+- 🔹 [Variables](./1_VARIABLE/2_VARIABLE)
+- 🔹 [Input in Java](./1_VARIABLE/3_INPUT)
 
 ---
 
-### 2️ Conditional Statements
+### 📕 Chapter 2: Conditional Statements  
 📁 [2_CONDITIONAL_STATEMENT](./2_CONDITIONAL_STATEMENT)
 
-> Covers:
-- if
-- if-else
-- else-if ladder
-- switch-case
+- 🔹 [if / else / else-if](./2_CONDITIONAL_STATEMENT/1_if-else_elseif)
+- 🔹 [switch Statement](./2_CONDITIONAL_STATEMENT/2_SWITCH)
 
 ---
 
-### 3️ Looping Statements
+### 📕 Chapter 3: Looping Statements  
 📁 [3_LOOP](./3_LOOP)
 
-> Covers:
-- for loop
-- while loop
-- do-while loop
-- nested loops
+- 🔹 [For Loop](./3_LOOP/1_FOR_LOOP)
+- 🔹 [While Loop](./3_LOOP/2_WHILE_LOOP)
+- 🔹 [Do-While Loop](./3_LOOP/3_DO_WHILE_LOOP)
+- 📝 [Practice Questions](./3_LOOP/PRACTICE)
 
 ---
 
-### 4️ Pattern Programs
+### 📕 Chapter 4: Pattern Programs  
 📁 [4_PATTERN](./4_PATTERN)
 
-> Covers:
-- Star patterns
-- Number patterns
-- Alphabet patterns
-- Loop-based logic building
+- 🔹 [Rectangle Pattern](./4_PATTERN/1_RECTANGLE)
+- 🔹 [Hollow Rectangle Pattern](./4_PATTERN/2_HOLLOW_RECTANGLE)
 
 ---
 
-### 5️ Functions / Methods
+### 📕 Chapter 5: Functions / Methods  
 📁 [5_FUNCTION](./5_FUNCTION)
 
-> Covers:
-- Method declaration
-- Method calling
-- Parameter passing
-- Return types
-- Method overloading
+- 📝 [Practice Programs](./5_FUNCTION/PRACTICE)
 
 ---
 
-### 6️ Arrays
+### 📕 Chapter 6: Arrays  
 📁 [6_ARRAY](./6_ARRAY)
 
-> Covers:
-- 1D Array
-[ARRAY](./6_ARRAY/2D_ARRAY/)
-- Array initialization
-- User input array
-- Array operations
+- 🔹 [1D Array](./6_ARRAY/1D_ARRAY)
+- 🔹 [2D Array](./6_ARRAY/2D_ARRAY)
 
 ---
 
-### 7 Object Oriented Programming (OOPS)
+### 📕 Chapter 7: Object Oriented Programming (OOPS)  
 📁 [7_OOPS](./7_OOPS)
 
-> Covers:
-- Class & Object
-- Constructor
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-
----
-
-## 📌 Inside Each Chapter Folder
-Each chapter may contain sub-folders like:
+- 🔹 [Class and Object](./7_OOPS/1_CLASS_AND_OBJECT)
 
 ---
 
@@ -110,4 +70,4 @@ Each chapter may contain sub-folders like:
 
 ---
 
-### ⭐ If this repository helps you, don’t forget to star it!
+### ⭐ NOTE : This notes is only for practice.

@@ -1,4 +1,4 @@
-public class Main{
+public class A_main{
     public static void main(String[] args) {
         System.out.println("Hello Shekhar");
         System.out.println("Hello Suman");

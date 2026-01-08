@@ -27,7 +27,7 @@ Click on any chapter name below to open that folder 👇
 ---
 
 ### 2️⃣ Conditional Statements
-📁 [2_CONDITIONAL_STATEMENT](./2_CONDITIONAL STATEMENT)
+📁 [2_CONDITIONAL_STATEMENT](./2_CONDITIONAL_STATEMENT)
 
 > Covers:
 - if

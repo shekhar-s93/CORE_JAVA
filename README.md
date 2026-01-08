@@ -13,9 +13,9 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-## 📘 Core Java Chapters
+##  Core Java Chapters
 
-### 1️⃣ Java Variables
+### 1️ Java Variables
 📁 [1_VARIABLE](./1_VARIABLE)
 
 > Covers:
@@ -26,7 +26,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 2️⃣ Conditional Statements
+### 2️ Conditional Statements
 📁 [2_CONDITIONAL_STATEMENT](./2_CONDITIONAL_STATEMENT)
 
 > Covers:
@@ -37,7 +37,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 3️⃣ Looping Statements
+### 3️ Looping Statements
 📁 [3_LOOP](./3_LOOP)
 
 > Covers:
@@ -48,8 +48,8 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 4️⃣ Pattern Programs
-📁 [4_PATTERN](https://github.com/shekhar-s93/CORE_JAVA/tree/master/4%20PATTERN)
+### 4️ Pattern Programs
+📁 [4_PATTERN](./4_PATTERN)
 
 > Covers:
 - Star patterns
@@ -59,7 +59,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 5️⃣ Functions / Methods
+### 5️ Functions / Methods
 📁 [5_FUNCTION](./5_FUNCTION)
 
 > Covers:
@@ -71,7 +71,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 6️⃣ Arrays
+### 6️ Arrays
 📁 [6_ARRAY](./6_ARRAY)
 
 > Covers:
@@ -82,7 +82,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 7️⃣ 2D / 3D Arrays
+### 7️ 2D / 3D Arrays
 📁 [7_3D_ARRAY](./7_3D_ARRAY)
 
 > Covers:
@@ -93,7 +93,7 @@ Click on any chapter name below to open that folder 👇
 
 ---
 
-### 8️⃣ Object Oriented Programming (OOPS)
+### 8️ Object Oriented Programming (OOPS)
 📁 [8_OOPS](./8_OOPS)
 
 > Covers:

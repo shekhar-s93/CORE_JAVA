@@ -49,7 +49,7 @@ Click on any chapter name below to open that folder 👇
 ---
 
 ### 4️⃣ Pattern Programs
-📁 [4_PATTERN](./4_PATTERN)
+📁 [4_PATTERN](https://github.com/shekhar-s93/CORE_JAVA/tree/master/4%20PATTERN)
 
 > Covers:
 - Star patterns

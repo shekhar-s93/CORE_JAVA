@@ -76,25 +76,15 @@ Click on any chapter name below to open that folder 👇
 
 > Covers:
 - 1D Array
+[ARRAY](./6_ARRAY/2D_ARRAY/)
 - Array initialization
 - User input array
 - Array operations
 
 ---
 
-### 7️ 2D / 3D Arrays
-📁 [7_3D_ARRAY](./7_3D_ARRAY)
-
-> Covers:
-- 2D Array
-- 3D Array
-- Matrix programs
-- Nested loops with arrays
-
----
-
-### 8️ Object Oriented Programming (OOPS)
-📁 [8_OOPS](./8_OOPS)
+### 7 Object Oriented Programming (OOPS)
+📁 [7_OOPS](./7_OOPS)
 
 > Covers:
 - Class & Object
